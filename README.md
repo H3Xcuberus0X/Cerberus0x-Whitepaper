@@ -1,4 +1,4 @@
-# Cerberus 0x – Whitepaper (English Edition)
+# Cerberus 0x – Whitepaper 
 
 **Author**: H3X  
 **Slogan**: Destroy systems before destroying the human mind  
